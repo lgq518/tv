@@ -1,0 +1,97 @@
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="河北移动(内)",CCTV1
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-1/1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="河北移动(内)",CCTV2
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-2/1.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="河北移动(内)",CCTV3
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-3/1.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="河北移动(内)",CCTV4
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-4/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="河北移动(内)",CCTV5
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-5/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5plus" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="河北移动(内)",CCTV5+
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="河北移动(内)",CCTV6
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-6/1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="河北移动(内)",CCTV7
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-7/1.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="河北移动(内)",CCTV8
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-8/1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="河北移动(内)",CCTV9
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-news/1.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="河北移动(内)",CCTV10
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-10/1.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="河北移动(内)",CCTV11
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-11/1.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="河北移动(内)",CCTV12
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-12/1.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="河北移动(内)",CCTV13
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-13/1.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="河北移动(内)",CCTV14
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-14/1.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="河北移动(内)",CCTV15
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-15/1.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="河北移动(内)",CCTV16
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="河北移动(内)",CCTV17
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/-4000k-1080P-cctv17/1.m3u8
+#EXTINF:-1 tvg-name="Hebei" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="河北移动(内)",河北卫视
+http://111.63.117.13:6060/030000001000/G_HEBEI/G_HEBEI.m3u8
+#EXTINF:-1 tvg-name="Anhui" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anhui.png" group-title="河北移动(内)",安徽卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/anhuistv/1.m3u8
+#EXTINF:-1 tvg-name="Hunan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="河北移动(内)",湖南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hunanstv/1.m3u8
+#EXTINF:-1 tvg-name="Dongfang" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="河北移动(内)",东方卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongfangstv/1.m3u8
+#EXTINF:-1 tvg-name="Beijing" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="河北移动(内)",北京卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/beijingstv/1.m3u8
+#EXTINF:-1 tvg-name="Zhejiang" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="河北移动(内)",浙江卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/zhejiangstv/1.m3u8
+#EXTINF:-1 tvg-name="Jiangsu" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="河北移动(内)",江苏卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiangsustv/1.m3u8
+#EXTINF:-1 tvg-name="Tianjin" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png" group-title="河北移动(内)",天津卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/tianjinstv/1.m3u8
+#EXTINF:-1 tvg-name="Henan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" group-title="河北移动(内)",河南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/henanstv/1.m3u8
+#EXTINF:-1 tvg-name="Chongqing" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" group-title="河北移动(内)",重庆卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/chongqingstv/1.m3u8
+#EXTINF:-1 tvg-name="Dongnan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" group-title="河北移动(内)",东南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongnanstv/1.m3u8
+#EXTINF:-1 tvg-name="Sichuan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="河北移动(内)",四川卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/sichuanstv/1.m3u8
+#EXTINF:-1 tvg-name="Shandong" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="河北移动(内)",山东卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shandongstv/1.m3u8
+#EXTINF:-1 tvg-name="Liaoning" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="河北移动(内)",辽宁卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/liaoningstv/1.m3u8
+#EXTINF:-1 tvg-name="Shenzhen" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="河北移动(内)",深圳卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shenzhenstv/1.m3u8
+#EXTINF:-1 tvg-name="Jiangxi" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="河北移动(内)",江西卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiangxistv/1.m3u8
+#EXTINF:-1 tvg-name="Guizhou" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guizhou.png" group-title="河北移动(内)",贵州卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guizhoustv/1.m3u8
+#EXTINF:-1 tvg-name="Jilin" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" group-title="河北移动(内)",吉林卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jilinstv/1.m3u8
+#EXTINF:-1 tvg-name="Guangdong" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="河北移动(内)",广东卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guangdongstv/1.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="河北移动(内)",龙江卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/-2500k-1080P-heilongjiangstv/1.m3u8
+#EXTINF:-1 tvg-name="Guangxi" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png" group-title="河北移动(内)",广西卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guangxistv/1.m3u8
+#EXTINF:-1 tvg-name="Hubei" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="河北移动(内)",湖北卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/-2500k-1080P-hubeistv/1.m3u8
+#EXTINF:-1 tvg-name="Gansu" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" group-title="河北移动(内)",甘肃卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/gansustv/1.m3u8
+#EXTINF:-1 tvg-name="Hainan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png" group-title="河北移动(内)",海南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hainanstv/1.m3u8
+河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.flv
+河北卫视,rtmp://event.pull.hebtv.com/jishi/weishi_tingyun
+
+邢台,#genre#
+邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台城市生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
+南和综合,https://jwcdnqx.hebyun.com.cn/live/NHTV1/1500k/tzwj_video.m3u8
+南和影视,https://jwcdnqx.hebyun.com.cn/live/NHTV2/1500k/tzwj_video.m3u8
+清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+张家口新闻综合,https://nlive.zjkgdcs.com:8572/live/xwzhpd.m3u8
+张家口公共,https://nlive.zjkgdcs.com:8572/live/zjktv2.m3u8
+
